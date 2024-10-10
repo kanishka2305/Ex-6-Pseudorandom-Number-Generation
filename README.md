@@ -40,7 +40,8 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/a90fee4d-082d-43d2-a1fe-0ec97ce9ec36)
+![image](https://github.com/user-attachments/assets/63919fbd-49ed-49c9-9a1b-72bf5d61b67a)
+
 
 ## Result:
 Thus, the pseudorandom number generation was successfully implemented using the standard library functions srand() and rand().
