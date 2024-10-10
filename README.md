@@ -9,7 +9,8 @@ To implement Pseudorandom Number Generation using the standard library functions
 3.To ensure different results on each execution, seed srand() with a dynamic value like the current time (time(NULL)).
 
 4.Use modulo operation to limit the range of generated numbers.
-##Program:
+
+## Program:
 ```py
 #include <stdio.h>
 //Constants for LCG
